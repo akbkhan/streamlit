@@ -6,13 +6,13 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from pandas import DataFrame
-from sklearn import datasets
-from sklearn.model_selection import train_test_split
-from sklearn.decomposition import PCA
-from sklearn.svm import SVC
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score
-from st_aggrid import AgGrid
+# from sklearn import datasets
+# from sklearn.model_selection import train_test_split
+# from sklearn.decomposition import PCA
+# from sklearn.svm import SVC
+# from sklearn.neighbors import KNeighborsClassifier
+# from sklearn.metrics import accuracy_score
+# from st_aggrid import AgGrid
 
 from PIL import Image
 
