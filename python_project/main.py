@@ -20,7 +20,7 @@ from PIL import Image
 
 st.title('Fiber to Retail Analytics')
 
-image = Image.open('./tdslogo.png')
+image = Image.open('../tdslogo.png')
 st.image(image, use_column_width=True)
 
 st.write("""
